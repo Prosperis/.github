@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile/logo.png" alt="Prosperis Logo" width="100"/>
+</p>
+
 # .github
 
 This repository contains community health files and organization profile for **Prosperis**.
